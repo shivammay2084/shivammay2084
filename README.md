@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0oGL9zSDcHdGBM1fGMZpJ2CqqBFBwNDjVOlsshEwQrg&usqp=CAU&ec=48665701)
+[![MasterHead](https://www.99plusitsolutions.com/wp-content/uploads/2018/02/Data-Analytics-Banner.jpg)
 <h1 align="center">Hi 😊, I'm Shivam Singh</h1>
 <h3 align="center">A passionate data analyst.</h3>
 <img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
