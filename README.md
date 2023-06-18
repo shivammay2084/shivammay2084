@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/wave-motion-information-particles_262424-1241.jpg)
+[![MasterHead](https://www.likharisignature.com/s/sig/index.php?name=shivam-singh-&f=153)
 <h1 align="center">Hi 😊, I'm Shivam Singh</h1>
 <h3 align="center">A passionate data analyst.</h3>
 <img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
